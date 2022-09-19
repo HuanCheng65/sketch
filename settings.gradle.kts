@@ -10,6 +10,7 @@ include(":sketch-video")
 include(":sketch-video-ffmpeg")
 include(":sketch-viewability")
 include(":sketch-zoom")
+include(":sketch-zoom-core")
 
 enableFeaturePreview("VERSION_CATALOGS")
 dependencyResolutionManagement {
